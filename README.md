@@ -34,4 +34,4 @@
 
 
 
-✏️По поводу заказов пишите в ТГ <a href='https://t.me/mercury_devel>@mercury_devel</a>
+✏️По поводу заказов пишите в ТГ <a href='https://t.me/mercury_devel'>@mercury_devel</a>
