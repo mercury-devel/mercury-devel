@@ -1,7 +1,8 @@
 
 ## Wilkommen auf meiner Seite
 
-<img alt="Image" style="width:800; height:600" src="https://i.ibb.co/FJf3cZX/z-PVIl-Qc-0rw.png">
+<img alt="" style="" src="https://i.imgur.com/bMltCMO.png">
+
 
 🦋Род занятий:
 
