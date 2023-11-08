@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**mercury-devel/mercury-devel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wilkommen auf meiner Seite
 
-Here are some ideas to get you started:
+<img alt="Image" style="width:800; height:600" src="https://i.ibb.co/FJf3cZX/z-PVIl-Qc-0rw.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦋Род занятий:
+
+— парсеры, инвайтеры и прочие tg, vk скрипты
+
+—  автоматизация на selenium или appium
+
+—  работа с сайтами на php + mysql
+
+
+
+🌕Опыт работы: 
+
+5 лет работы в этой сфере.Пишу автоматизированное ПО на selenium и appium, скрипты, сайты.
+
+🌸Подробнее тут: ссылка (https://telegra.ph/Polnaya-informaciya-10-13)
+
+
+
+🖤Расценка:
+
+Если делать простого бота то цена будет от 1к до 2к. Срок день
+
+Если это магазин, то делаю от 3-6к.
+
+Срок 2-3 дня
+
+Если проект имеет очень много встроенных функций разной сложности. То такой проект займет 4-8 дней и будет стоить от 8к до 15к
+
+
+
+✏️По поводу заказов пишите в ТГ <a href='https://t.me/mercury_devel>@mercury_devel</a>
