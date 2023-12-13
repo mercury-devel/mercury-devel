@@ -35,3 +35,7 @@
 
 
 ✏️По поводу заказов пишите в ТГ <a href='https://t.me/mercury_devel'>@mercury_devel</a>
+
+<h3 align="center">Visitors Counts👀</h3>
+<p align="center"><a href="https://github.com/mercury-devel/mercury-devel"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@mercury-devel?theme=rule34" /></a></p>
