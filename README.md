@@ -16,9 +16,11 @@
 
 🌕Опыт работы: 
 
+Примеры работ находятся в [репозиториях](https://github.com/mercury-devel?tab=repositories). Со временем число будет пополняться
+
 5 лет работы в этой сфере.Пишу автоматизированное ПО на selenium и appium, скрипты, сайты.
 
-🌸Подробнее тут: ссылка (https://telegra.ph/Polnaya-informaciya-10-13)
+🌸Подробнее [тут](https://telegra.ph/Polnaya-informaciya-01-11)
 
 
 
