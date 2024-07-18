@@ -1,4 +1,4 @@
-# Dear my friends
+# 🌙✨ Dear my friends
 
 ![Баннер](https://i.ibb.co/3SY3twN/banner.jpg)
 
