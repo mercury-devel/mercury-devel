@@ -1,16 +1,26 @@
-## Hi there 👋
+# Dear my friends
 
-<!--
-**mercury-devel/mercury-devel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Баннер](https://i.ibb.co/3SY3twN/banner.jpg)
 
-Here are some ideas to get you started:
+## 🌐 My interests
+- Making software for automatisation (Selenium)
+- Creating telegram bots
+- Parsing info from websites
+- Creating and installing websites on nodejs or php laravel
+- Also have skills to work with ChatGPT that improves my work speed.
+- Testing projects and solve bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mercury-devel&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercury-devel&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+## 📬 Contacts
+
+- [My Website](https://nocrynomercy.ru)
+- [Telegram](https://t.me/mercury_devel)
+- [Email](mailto:angel@nocrynomercy.ru)
+
+Good Night... 😊
