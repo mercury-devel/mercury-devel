@@ -1,7 +1,5 @@
 # 🌙✨ Dear my friends
 
-![Баннер](https://i.ibb.co/3SY3twN/banner.jpg)
-
 ## 🌐 My interests
 - Making software for automatisation (Selenium)
 - Creating telegram bots
