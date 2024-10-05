@@ -17,8 +17,8 @@
 
 ## 📬 Contacts
 
-- [My Website](https://nocrynomercy.ru)
+- [My Website](https://mercuria.dev)
 - [Telegram](https://t.me/mercury_devel)
-- [Email](mailto:angel@nocrynomercy.ru)
+- [Email](mailto:angel@mercuria.dev)
 
 Good Night... 😊
