@@ -19,6 +19,6 @@
 
 - [My Website](https://mercuria.dev)
 - [Telegram](https://t.me/mercury_devel)
-- [Email](mailto:angel@mercuria.dev)
+- [Email](mailto:mercury_devel@protonmail.com)
 
 Good Night... 😊
