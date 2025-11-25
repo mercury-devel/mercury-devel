@@ -8,13 +8,6 @@
 - Also have skills to work with ChatGPT that improves my work speed.
 - Testing projects and solve bugs
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mercury-devel&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercury-devel&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
-
 ## 📬 Contacts
 
 - [My Website](https://mercuria.dev)
