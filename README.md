@@ -11,7 +11,7 @@
 ## 📬 Contacts
 
 - [My Website](https://mercuria.dev)
-- [Telegram](https://t.me/mercury_devel)
+- [Telegram](https://t.me/mercuria_dev)
 - [Email](mailto:mercury_devel@protonmail.com)
 
 Good Night... 😊
