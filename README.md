@@ -3,9 +3,10 @@
 ## 🌐 My interests
 - Making software for automatisation (Selenium)
 - Creating telegram bots
-- Parsing info from websites
-- Creating and installing websites on nodejs or php laravel
+- Web scraping 
+- Creating and installing websites on nodejs or php vue js
 - Also have skills to work with ChatGPT that improves my work speed.
+- Windows / Linux server administration
 - Testing projects and solve bugs
 
 ## 📬 Contacts
